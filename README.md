@@ -1,4 +1,4 @@
-# VSB-Powerlines-Fault-Prediction
+# VSB Powerlines Fault Prediction
 
 Please refer to the ipython notebook or the pdf file for the code, visualisations and results.
 The work in this repository refers to the output of a kaggle data competition detailed below.
